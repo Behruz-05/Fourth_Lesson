@@ -6,6 +6,8 @@ import random
 
 ismlar = ['Akbar', 'Jasur', 'Navruz', 'Azimbek', 'Sherzod']
 
+del ismlar[3]
+
 tanlangan_ism = random.choice(ismlar)
 tanlangan_ism2 = random.choice(ismlar)
 print("Salom", tanlangan_ism, "bugun choyxona bormi?")
