@@ -25,3 +25,9 @@ print(randomnumber-randomnumber2)
 print(randomnumber*randomnumber2)
 
 print(randomnumber/randomnumber2)
+
+guruh = ['Sherzod', 'Akbar', 'Azimjon', 'Nurbek', 'Jasur', 'Navruz', 'Zokir', 'Asilbek', 'Akrom', 'Ahror', 'Jamshid', 'Temur', 'Ozodbek', 'Abdulla', 'Shokir', 'Qudrat', 'Amir', 'Hamid', 'Umid', 'Jonibek', 'Oybek', 'Diyorbek', 'Ali', 'Samandar', 'Sanjar', 'Botir', 'Sirojiddin', 'Muhammadali', 'Otabek', 'Latif', 'Abdulloh', 'Islombek', 'Kamron', 'Imron', 'Sulton', 'Sardor']
+
+guruh.remove('Azimjon')
+print(len(guruh))
+
